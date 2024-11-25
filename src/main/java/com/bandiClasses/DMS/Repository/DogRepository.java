@@ -1,10 +1,10 @@
-package com.bandiClasses.DMS.Repository;
+package com.bandiclasses.DMS.repository;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.bandiClasses.DMS.Models.Dog;
+import com.bandiclasses.DMS.Models.Dog;
 
 
 /**

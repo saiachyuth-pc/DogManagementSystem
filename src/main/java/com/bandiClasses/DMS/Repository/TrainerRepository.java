@@ -1,8 +1,8 @@
-package com.bandiClasses.DMS.Repository;
+package com.bandiclasses.DMS.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.bandiClasses.DMS.Models.Trainer;
+import com.bandiclasses.DMS.Models.Trainer;
 
 /**
  *  @author S572549 [Sai Acyuth Konda] 
